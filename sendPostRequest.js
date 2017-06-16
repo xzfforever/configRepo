@@ -5,7 +5,7 @@ var querystring = require('querystring');
 var options = {
 	host:'127.0.0.1',
  	port:9999,
-	path:'/refresh',
+	path:'/bus/refresh',
 	method:'POST'   
 };
 
